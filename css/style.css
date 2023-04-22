@@ -146,6 +146,11 @@ img.scaled {
 .blanc:active, .gris:active {
     background-color: rgba(220, 220, 220, 0.80);
 }
+
+/* Footer */
+footer {
+    font-family: Space Grotesk;
+}
 /* Liens */
 a:any-link{
     color: inherit;
